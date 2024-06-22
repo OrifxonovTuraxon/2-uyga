@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 # glowing-funicular
 # glowing-funicular
 # 2-uyga_vazifa
+# 2-uyga_vazifa1
