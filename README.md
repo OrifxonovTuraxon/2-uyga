@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # 2-uyga1
 # 2-uyga1
 # glowing-funicular
+# glowing-funicular
